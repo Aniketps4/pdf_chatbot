@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-google-genai   # optional if using Gemini
+langchain-huggingface    # if using Hugging Face LLM
+faiss-cpu
+orjson
+pydantic

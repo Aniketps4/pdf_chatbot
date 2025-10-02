@@ -1,0 +1,11 @@
+[
+  {
+    "input": " What is a Non-Banking Financial Company (NBFC)?",
+    "expected_output": "A Non-Banking Financial Company (NBFC) is a company registered under the Companies Act, 1956 or Companies Act, 2013, and engaged in the business of loans and advances, acquisition of shares/stocks/bonds/debentures/securities issued by Government or local authority or other marketable securities of a like nature, leasing, hire-purchase, etc., as their principal business, but does not include any institution whose principal business is that of agriculture activity, industrial activity, purchase or sale of any goods (other than securities) or providing any services and sale/purchase/construction of immovable property. A non-banking institution which is a company and has principal business of receiving deposits under any scheme or arrangement in one lump sum or in installments by way of contributions or in any other manner, is also a non-banking financial company (Residuary non-banking company)."
+  },
+  {
+    "input": "What does conducting financial activity as “principal business” mean?",
+    "expected_output": "Financial activity as principal business is when a company’s financial assets constitute more than 50 per cent of the total assets (netted off by intangible assets) and income from financial assets constitute more than 50 per cent of the gross income. A company which fulfils both these criteria needs to get registered as NBFC with the Reserve Bank. The term 'principal business' has not been defined in the Reserve Bank of India Act, 1934. Hence, the Reserve Bank has defined it vide Press Release 1998-99/1269 dated April 08, 1999 so as to ensure that only companies predominantly engaged in financial activity get registered with it and are regulated and supervised by it. Hence, if there are companies engaged in agricultural operations, industrial activity, purchase and sale of goods, providing services or purchase, sale or construction of immovable property as their principal business and are doing some financial business in a small way, they will not be regulated by the Reserve Bank. Interestingly, this test is popularly known as 50-50 test and is applied to determine whether or not a company is into financial business."
+  }
+  
+]
