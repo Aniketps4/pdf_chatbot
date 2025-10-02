@@ -3,7 +3,7 @@
 import sys
 
 from langchain_community.vectorstores import FAISS
-from langchain_huggingface import HuggingFaceEmbeddings
+from langchain_community.embeddings import HuggingFaceEmbeddings
 from langchain.chains import RetrievalQA
 from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.callbacks.streaming_stdout import StreamingStdOutCallbackHandler
@@ -65,3 +65,4 @@ if __name__ == "__main__":
         print("\nSources:")
         for doc in res['source_documents']:
             print(f"- Page: {doc.metadata.get('page_number')} | {doc.page_content[:100]}...")
+
