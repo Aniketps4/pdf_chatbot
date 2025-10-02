@@ -5,3 +5,9 @@ langchain-huggingface    # if using Hugging Face LLM
 faiss-cpu
 orjson
 pydantic
+langchain-community
+huggingface-hub
+python-dotenv
+sentence-transformers
+
+
